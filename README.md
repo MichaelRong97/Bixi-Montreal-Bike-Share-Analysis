@@ -1,0 +1,3 @@
+This repository contains an analysis of Bixi Montreal's bike share services data for 2016-2017 involved extracting and preparing the dataset using MySQL queries. Metrics such as total trips, average trip duration, and frequency of bike usage were calculated for different times of the year and segmented based on user membership status. Visualizations were created in Tableau to represent the findings of the analysis, including peak usage times and areas of high demand for bikes. The comparison of activity levels and usage patterns between members and non-members were also evaluated.
+
+Data for the years of 2016 and 2017 can be found here: https://www.bixi.com/en/open-data
